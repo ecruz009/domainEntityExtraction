@@ -1,0 +1,25 @@
+T1	DKE 0 13	Lyme carditis
+T2	DKE 73 85	Lyme disease
+T3	DKE 133 171	stage 2 of the B burgdorferi infection
+T4	DKE 218 237	neurologic symptoms
+T5	DKE 242 266	musculoskeletal symptoms
+T6	DKE 357 380	erythema migrans lesion
+T7	DKE 425 442	erythematous rash
+T8	DKE 530 553	erythema migrans lesion
+T9	DKE 586 599	Lyme carditis
+T10	DKE 738 745	syncope
+T11	DKE 747 754	dyspnea
+T12	DKE 756 768	palpitations
+T13	DKE 774 784	chest pain
+T14	DKE 914 938	B burgdorferi infections
+T15	DKE 972 984	pericarditis
+T16	DKE 986 998	endocarditis
+T17	DKE 1000 1011	myocarditis
+T18	DKE 1013 1033	pericardial effusion
+T19	DKE 1035 1056	myocardial infarction
+T20	DKE 1058 1082	coronary artery aneurysm
+T21	DKE 1084 1105	prolonged QT interval
+T22	DKE 1111 1135	congestive heart failure
+T23	DKE 1372 1383	antibiotics
+T24	DKE 721 736	lightheadedness
+T25	DKE 1194 1197	CHB

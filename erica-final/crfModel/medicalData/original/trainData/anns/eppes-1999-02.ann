@@ -1,0 +1,18 @@
+T1	DKE 0 18	Aseptic meningitis
+T2	DKE 43 65	meningeal inflammation
+T3	DKE 123 126	CSF
+T4	DKE 254 264	meningitis
+T5	DKE 364 383	Transverse myelitis
+T6	DKE 385 395	malignancy
+T7	DKE 397 405	syphilis
+T8	DKE 407 417	bacteremia
+T9	DKE 419 431	Lyme disease
+T10	DKE 437 462	viral meningoencephalitis
+T11	DKE 508 520	viral agents
+T12	DKE 533 558	Coxsackie and echoviruses
+T13	DKE 590 608	aseptic meningitis
+T14	DKE 614 626	Lyme disease
+T15	DKE 646 668	vector-borne infection
+T16	DKE 763 775	Lyme disease
+T17	DKE 872 885	endemic areas
+T18	DKE 1066 1087	Lyme neuroborreliosis

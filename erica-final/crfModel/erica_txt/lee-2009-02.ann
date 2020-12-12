@@ -1,0 +1,27 @@
+T1	DKE 42 47	serum
+T2	DKE 67 97	erythrocyte sedimentation rate
+T3	DKE 99 102	ESR
+T4	DKE 105 121	cryoprecipitates
+T5	DKE 145 150	serum
+T6	DKE 151 163	IgM antibody
+T7	DKE 164 169	titer
+T8	DKE 206 211	serum
+T9	DKE 212 224	IgG antibody
+T10	DKE 225 230	titer
+T11	DKE 239 249	complement
+T12	DKE 250 252	C3
+T13	DKE 279 296	rheumatoid factor
+T14	DKE 300 311	antinuclear
+T15	DKE 312 322	antibodies
+T16	DKE 356 359	ESR
+T17	DKE 341 350	remission
+T18	DKE 431 443	western blot
+T19	DKE 526 534	antigens
+T20	DKE 544 555	derivatives
+T21	DKE 559 574	B burgdorferi's
+T22	DKE 575 583	proteins
+T23	DKE 623 645	immunoflorescent assay
+T24	DKE 647 650	IFA
+T25	DKE 651 656	titer
+T26	DKE 664 689	enzyme linked immunoassay
+T27	DKE 691 696	ELISA

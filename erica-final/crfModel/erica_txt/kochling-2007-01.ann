@@ -1,0 +1,15 @@
+T1	DKE 0 12	Lyme disease
+T2	DKE 30 40	tick borne
+T3	DKE 41 51	spirochete
+T4	DKE 52 72	Borrelia burgdorferi
+T5	DKE 141 153	ixodic ticks
+T6	DKE 173 189	lymphatic system
+T7	DKE 191 195	skin
+T8	DKE 197 203	joints
+T9	DKE 205 210	heart
+T10	DKE 225 239	nervous system
+T11	DKE 212 216	eyes
+T12	DKE 245 267	Central nervous system
+T13	DKE 328 350	lymphocytic meningitis
+T14	DKE 352 368	radiculoneuritis
+T15	DKE 373 389	cranial neuritis

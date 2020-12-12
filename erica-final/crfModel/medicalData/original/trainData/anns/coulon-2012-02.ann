@@ -1,0 +1,14 @@
+T1	DKE 2 22	physical examination
+T3	DKE 258 275	flu-like symptoms
+T4	DKE 277 287	runny nose
+T5	DKE 289 305	sinus congestion
+T6	DKE 311 323	itchy throat
+T7	DKE 366 382	sinus congestion
+T8	DKE 473 498	supraspinatus impingement
+T2	DKE 54 103	clinical impression of supraspinatus tendinopathy
+T9	DKE 504 525	Palpation examination
+T10	DKE 606 626	supraspinatus tendon
+T11	DKE 638 664	supraspinatus muscle belly
+T12	DKE 709 754	minimal scapular dyskinesia on the right side
+T13	DKE 960 981	manual muscle testing
+T14	DKE 983 986	MMT

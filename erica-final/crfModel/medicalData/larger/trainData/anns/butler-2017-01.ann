@@ -1,0 +1,20 @@
+T1	DKE 0 19	Tick-borne diseases
+T2	DKE 21 24	TBD
+T3	DKE 172 175	TBD
+T4	DKE 259 268	pathogens
+T5	DKE 509 518	pathogens
+T6	DKE 560 582	antibiotic prophylaxis
+T7	DKE 587 599	Lyme disease
+T8	DKE 660 672	Lyme disease
+T9	DKE 711 732	tick-bite prophylaxis
+T10	DKE 837 870	prophylactic antibiotic treatment
+T11	DKE 930 933	TBD
+T12	DKE 1019 1031	Lyme disease
+T13	DKE 1032 1044	endemic area
+T14	DKE 1306 1323	blacklegged ticks
+T15	DKE 1325 1342	Ixodes scapularis
+T16	DKE 1438 1455	blacklegged ticks
+T17	DKE 1588 1607	non-tick arthropods
+T18	DKE 1618 1625	beetles
+T19	DKE 1627 1636	crab lice
+T20	DKE 1642 1651	head lice

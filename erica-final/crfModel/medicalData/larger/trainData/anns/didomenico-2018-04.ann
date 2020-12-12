@@ -1,0 +1,32 @@
+T1	DKE 0 30	Biofilm production in Borrelia
+T2	DKE 60 96	complex array of signaling processes
+T3	DKE 110 121	spirochetes
+T4	DKE 175 209	RpoN–RpoS alternative sigma factor
+T5	DKE 218 245	LuxS quorumsensing pathways
+T6	DKE 269 295	several cellular functions
+T7	DKE 335 364	pH and temperature variations
+T8	DKE 366 381	high osmolarity
+T9	DKE 383 399	oxidative stress
+T10	DKE 401 418	high cell density
+T11	DKE 420 439	nutrient starvation
+T12	DKE 441 455	host infection
+T13	DKE 473 509	biofilm production in B. burgdorferi
+T14	DKE 525 542	RpoN–RpoS pathway
+T15	DKE 594 628	adaptive changes in B. burgdorferi
+T16	DKE 663 674	tick vector
+T17	DKE 679 693	mammalian host
+T18	DKE 708 725	RpoN–RpoS pathway
+T19	DKE 740 756	activity of RpoN
+T20	DKE 786 807	transcription of RpoS
+T21	DKE 859 886	RpoN-type promoter sequence
+T22	DKE 920 940	σ^{54}-σ^{S} cascade
+T23	DKE 969 1003	bacterial enhancer-binding protein
+T24	DKE 1005 1009	bEBP
+T25	DKE 1011 1036	σ^{54}-dependent activato
+T26	DKE 1039 1043	Rrp2
+T27	DKE 1061 1065	BosR
+T28	DKE 1107 1111	RpoS
+T29	DKE 1122 1143	global gene regulator
+T30	DKE 1211 1227	stress responses
+T31	DKE 1229 1256	host infection and survival
+T32	DKE 1268 1285	biofilm formation

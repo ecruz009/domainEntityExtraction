@@ -1,0 +1,1 @@
+Case identification was conducted in 2 phases. First, for the initial screening, we created a computer-assisted key word screening tool called regular-expression matching.

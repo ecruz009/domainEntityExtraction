@@ -1,0 +1,1 @@
+We first compared children with Lyme disease to those without using the Mann–Whitney U test to compare continuous variables and the χ2 test for proportions.

@@ -1,0 +1,30 @@
+﻿Bell’s	B-KP	0,6
+palsy	I-KP	7,12
+may	O	13,16
+occur	O	17,22
+either	O	23,29
+unilaterally	O	30,42
+or	O	43,45
+bilaterally	O	46,57
+.	O	57,58
+
+Meningitis	B-KP	59,69
+,	O	69,70
+joint	B-KP	71,76
+inflammation	I-KP	77,89
+of	O	90,92
+knees	O	93,98
+and	O	99,102
+other	O	103,108
+large	O	109,114
+joints	O	115,121
+,	O	121,122
+as	O	123,125
+well	O	126,130
+as	O	131,133
+cardiac	B-KP	134,141
+irregularities	I-KP	142,156
+may	O	157,160
+occur	O	161,166
+.	O	166,167
+

@@ -1,0 +1,13 @@
+T1	DKE 0 20	Bacterial meningitis
+T2	DKE 70 89	cerebrospinal fluid
+T3	DKE 91 94	CSF
+T4	DKE 96 107	pleocytosis
+T5	DKE 136 156	bacterial meningitis
+T6	DKE 176 188	Lyme disease
+T7	DKE 189 202	endemic areas
+T8	DKE 268 283	CSF pleocytosis
+T9	DKE 307 327	bacterial meningitis
+T10	DKE 343 358	Lyme meningitis
+T11	DKE 468 505	Borrelia burgdorferi serology results
+T12	DKE 576 587	antibiotics
+T13	DKE 621 636	Lyme meningitis

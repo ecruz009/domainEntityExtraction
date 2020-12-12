@@ -1,0 +1,26 @@
+﻿LD	B-KP	0,2
+in	O	3,5
+the	O	6,9
+US	O	10,12
+is	O	13,15
+transmitted	O	16,27
+by	O	28,30
+the	O	31,34
+Ixodes	B-KP	35,41
+scapularis	I-KP	42,52
+or	O	53,55
+Ixodes	B-KP	56,62
+Pacificus	I-KP	63,72
+tick	B-KP	73,77
+species	I-KP	78,85
+,	O	85,86
+commonly	O	87,95
+known	O	96,101
+as	O	102,104
+the	O	105,108
+black-legged	B-KP	109,121
+or	O	122,124
+deer	B-KP	125,129
+tick	I-KP	130,134
+.	O	134,135
+

@@ -1,0 +1,18 @@
+T1	DKE 19 28	infection
+T2	DKE 146 170	erythema migrans lesions
+T3	DKE 186 201	musculoskeletal
+T4	DKE 203 213	neurologic
+T5	DKE 218 241	cardiovascular symptoms
+T6	DKE 253 277	Musculoskeletal symptoms
+T7	DKE 321 336	migratory joint
+T8	DKE 340 351	muscle pain
+T9	DKE 369 383	joint swelling
+T10	DKE 385 410	Neurologic manifestations
+T11	DKE 449 459	meningitis
+T12	DKE 478 498	facial cranial nerve
+T13	DKE 504 526	radicular neuropathies
+T14	DKE 528 551	Cardiovascular symptoms
+T15	DKE 618 651	temporary atrioventricular blocks
+T16	DKE 748 767	cardiac involvement
+T17	DKE 778 789	heart block
+T18	DKE 846 858	Lyme disease

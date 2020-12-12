@@ -1,0 +1,35 @@
+T1	DKE 0 20	Borrelia burgdorferi
+T2	DKE 22 24	Bb
+T3	DKE 85 102	spirochete family
+T4	DKE 224 234	spirochete
+T5	DKE 286 315	central protoplasmic cylinder
+T6	DKE 338 358	periplasmic flagella
+T7	DKE 376 395	outer cell membrane
+T8	DKE 417 452	carbohydrate-containing slime layer
+T9	DKE 454 456	Bb
+T10	DKE 466 481	chromosomal DNA
+T11	DKE 486 522	extrachromosomal double-stranded DNA
+T12	DKE 547 587	supercoiled circular and linear plasmids
+T13	DKE 610 626	plasmid DNA code
+T14	DKE 673 675	Bb
+T15	DKE 691 694	p41
+T16	DKE 743 749	p58-60
+T17	DKE 751 754	p66
+T18	DKE 756 759	p68
+T19	DKE 761 764	p71
+T20	DKE 770 773	p73
+T21	DKE 775 794	heat-shock proteins
+T22	DKE 829 846	borrelia proteins
+T23	DKE 853 881	serological cross-reactivity
+T24	DKE 945 971	outer surface lipoproteins
+T25	DKE 973 976	Osp
+T26	DKE 986 990	OspA
+T27	DKE 1001 1005	OspB
+T28	DKE 1016 1020	OspC
+T29	DKE 1049 1053	OspD
+T30	DKE 1055 1059	OspE
+T31	DKE 1061 1065	OspF
+T32	DKE 1071 1074	p93
+T33	DKE 1107 1136	protoplasmic cylinder antigen
+T34	DKE 1142 1145	p39
+T35	DKE 1156 1167	lipoprotein

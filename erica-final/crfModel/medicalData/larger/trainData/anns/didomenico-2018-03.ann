@@ -1,0 +1,43 @@
+T1	DKE 48 52	OspC
+T2	DKE 54 58	ErpP
+T3	DKE 60 64	ErpA
+T4	DKE 66 70	ErpC
+T5	DKE 76 83	enolase
+T6	DKE 118 134	host plasminogen
+T7	DKE 138 157	spirochetal surface
+T8	DKE 207 218	Plasminogen
+T9	DKE 224 236	glycoprotein
+T10	DKE 330 359	plasminogen to active plasmin
+T11	DKE 375 397	proteolytic activation
+T12	DKE 416 449	tissue-type plasminogen activator
+T13	DKE 451 454	tPA
+T14	DKE 463 509	urokinase-type plasminogen activator urokinase
+T15	DKE 511 514	uPA
+T16	DKE 517 524	Plasmin
+T17	DKE 544 570	intravascular fibrinolysis
+T18	DKE 651 668	tissue remodeling
+T19	DKE 670 684	cell migration
+T20	DKE 686 698	thrombolysis
+T21	DKE 750 782	Invasive forms of B. burgdorferi
+T22	DKE 815 851	plasminogen-binding surface proteins
+T23	DKE 871 893	pathogen dissemination
+T24	DKE 902 914	host tissues
+T25	DKE 927 934	Enolase
+T26	DKE 941 1003	integral enzyme of the glycolysis and gluconeogenesis pathways
+T27	DKE 1085 1101	eukaryotic cells
+T28	DKE 1103 1118	surface enolase
+T29	DKE 1129 1172	plasminogen receptor in certain tumor cells
+T30	DKE 1201 1207	enzyme
+T31	DKE 1284 1298	B. burgdorferi
+T32	DKE 1319 1375	surface-localized enolase acts as a plasminogen receptor
+T33	DKE 1473 1484	plasminogen
+T34	DKE 1572 1585	spirochetemia
+T35	DKE 1623 1687	Surface-associated plasmin on B. burgdorferi degrade fibronectin
+T36	DKE 1728 1731	ECM
+T37	DKE 1733 1740	laminin
+T38	DKE 1745 1756	vitronectin
+T39	DKE 1769 1783	B. burgdorferi
+T40	DKE 1812 1842	host matrix metalloproteases 9
+T41	DKE 1844 1849	MMP-9
+T42	DKE 1855 1860	MMP-1
+T43	DKE 1866 1915	plasmin-coated B. burgdorferi activates pro-MMP-9

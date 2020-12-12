@@ -1,0 +1,20 @@
+T1	DKE 51 63	Lyme disease
+T2	DKE 278 315	oligoarticular inflammatory arthritis
+T3	DKE 481 489	bursitis
+T4	DKE 493 503	tendinitis
+T5	DKE 508 536	temporomandibular joint pain
+T6	DKE 571 586	acute arthritis
+T7	DKE 645 671	SF white blood cell counts
+T8	DKE 684 700	septic arthritis
+T9	DKE 739 753	Lyme arthritis
+T10	DKE 784 802	systemic infection
+T11	DKE 828 842	joint effusion
+T12	DKE 874 887	Baker’s cysts
+T13	DKE 940 954	Lyme arthritis
+T14	DKE 992 1001	synovitis
+T15	DKE 1126 1135	synovitis
+T16	DKE 1189 1200	antibiotics
+T17	DKE 1220 1256	antibiotic-refractory Lyme arthritis
+T18	DKE 1319 1332	B burgdorferi
+T19	DKE 1453 1485	nonseptic inflammatory arthritis
+T20	DKE 918 938	antibiotic treatment

@@ -1,0 +1,21 @@
+T1	DKE 33 35	LM
+T2	DKE 64 67	CSF
+T3	DKE 43 62	cerebrospinal fluid
+T4	DKE 88 108	.8 white blood cells
+T5	DKE 162 178	erythema migrans
+T6	DKE 180 182	EM
+T7	DKE 200 213	Lyme serology
+T8	DKE 215 230	Serologic tests
+T9	DKE 235 255	Borrelia burgdorferi
+T10	DKE 410 436	positive western blot test
+T11	DKE 595 607	Lyme disease
+T12	DKE 624 640	western blotting
+T13	DKE 664 683	enzyme immunoassays
+T14	DKE 792 794	VM
+T15	DKE 828 831	CSF
+T16	DKE 884 899	viral infection
+T17	DKE 905 917	positive CSF
+T18	DKE 919 933	nasopharyngeal
+T19	DKE 938 953	rectal cultures
+T20	DKE 955 984	poliovirus in rectal cultures
+T21	DKE 1041 1051	meningitis

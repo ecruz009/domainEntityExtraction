@@ -1,0 +1,39 @@
+T2	DKE 298 336	infectious and non-infectious entities
+T3	DKE 419 431	Lyme disease
+T4	DKE 622 636	B. burgdorferi
+T5	DKE 638 660	Local red skin lesions
+T6	DKE 848 873	B. burgdorferi EM lesions
+T7	DKE 1040 1072	Localized soft tissue infections
+T8	DKE 1078 1099	Staphylococcal aureus
+T9	DKE 1112 1141	methicillin-resistant strains
+T10	DKE 1227 1246	pyogenic infections
+T11	DKE 1312 1314	EM
+T12	DKE 1325 1337	vesicular EM
+T13	DKE 1368 1382	Herpes simplex
+T14	DKE 1387 1414	Varicella zoster infections
+T15	DKE 1508 1510	EM
+T16	DKE 1552 1564	Lyme disease
+T17	DKE 1573 1578	fever
+T18	DKE 1580 1587	malaise
+T19	DKE 1589 1597	headache
+T20	DKE 1599 1607	myalgias
+T21	DKE 1609 1629	pain on neck flexion
+T22	DKE 1631 1669	regional and localized lymphadenopathy
+T23	DKE 1740 1762	cranial nerve function
+T24	DKE 1779 1791	Lyme disease
+T25	DKE 1893 1903	H. simplex
+T26	DKE 1908 1917	V. zoster
+T27	DKE 1957 1971	Lyme arthritis
+T28	DKE 1992 2004	septic joint
+T29	DKE 2052 2060	pathogen
+T30	DKE 2076 2090	synovial fluid
+T31	DKE 2119 2138	pyogenic infections
+T32	DKE 2147 2156	S. aureus
+T33	DKE 2183 2201	reactive arthritis
+T34	DKE 2217 2269	gastrointestinal and sexually transmitted infections
+T35	DKE 2281 2327	non-infection inflammatory arthritic processes
+T36	DKE 2525 2537	Lyme disease
+T37	DKE 2377 2391	Lyme arthritis
+T38	DKE 2433 2462	juvenile rheumatoid arthritis
+T1	DKE 0 16	Lyme borreliosis
+T39	DKE 1716 1729	viral illness

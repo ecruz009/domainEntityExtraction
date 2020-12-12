@@ -1,0 +1,19 @@
+T1	DKE 43 76	non-Hodgkin’s B cell CNS lymphoma
+T3	DKE 185 188	MTX
+T4	DKE 223 236	MTX infusions
+T5	DKE 381 393	CNS lymphoma
+T6	DKE 473 480	lesions
+T7	DKE 486 500	brain MRI scan
+T8	DKE 528 531	MTX
+T9	DKE 590 603	brain lesions
+T10	DKE 646 659	high-dose MTX
+T11	DKE 661 670	rituximab
+T12	DKE 676 688	temozolomide
+T2	DKE 171 183	methotrexate
+T13	DKE 822 848	myeloablative chemotherapy
+T14	DKE 863 873	cytarabine
+T15	DKE 875 880	Ara-C
+T16	DKE 882 891	etoposide
+T17	DKE 893 898	VP-16
+T18	DKE 1206 1218	hysterectomy
+T19	DKE 1223 1238	placenta previa

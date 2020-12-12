@@ -1,0 +1,25 @@
+T1	DKE 0 13	Serum samples
+T2	DKE 45 55	gingivitis
+T3	DKE 59 72	periodontitis
+T4	DKE 91 107	Lyme borreliosis
+T5	DKE 116 129	periodontitis
+T6	DKE 148 164	Lyme borreliosis
+T7	DKE 181 191	antibodies
+T8	DKE 195 209	B. burgdorferi
+T9	DKE 213 218	ELISA
+T10	DKE 241 251	antibodies
+T11	DKE 255 269	B. burgdorferi
+T12	DKE 273 278	ELISA
+T13	DKE 344 347	IgM
+T14	DKE 348 356	antibody
+T15	DKE 379 382	IgG
+T16	DKE 383 393	antibodies
+T17	DKE 402 410	antibody
+T18	DKE 433 436	IgG
+T19	DKE 437 447	antibodies
+T20	DKE 456 466	spirochete
+T21	DKE 478 481	IgM
+T22	DKE 482 490	antibody
+T23	DKE 515 521	Titers
+T24	DKE 525 528	IgM
+T25	DKE 529 537	antibody

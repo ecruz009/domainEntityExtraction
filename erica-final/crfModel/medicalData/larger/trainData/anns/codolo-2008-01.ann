@@ -1,0 +1,26 @@
+T1	DKE 6 33	pathogenic Borrelia species
+T2	DKE 64 76	Lyme disease
+T3	DKE 162 174	Lyme disease
+T4	DKE 188 208	Borrelia burgdorferi
+T5	DKE 210 226	Borrelia afzelii
+T6	DKE 232 248	Borrelia garinii
+T7	DKE 269 289	Borrelia burgdorferi
+T8	DKE 315 327	Lyme disease
+T9	DKE 375 386	skin lesion
+T10	DKE 388 404	erythema migrans
+T11	DKE 443 453	spirochete
+T12	DKE 493 503	meningitis
+T13	DKE 505 535	cranial or peripheral neuritis
+T14	DKE 537 545	carditis
+T15	DKE 547 574	atrioventricular node block
+T16	DKE 579 609	migratory musculoskeletal pain
+T17	DKE 625 639	Lyme arthritis
+T18	DKE 679 697	Borrelia infection
+T19	DKE 813 827	synovial fluid
+T20	DKE 837 876	polymorphonuclear and mononuclear cells
+T21	DKE 900 914	Lyme arthritis
+T22	DKE 939 977	oral or intravenous antibiotic therapy
+T23	DKE 1003 1026	proliferative synovitis
+T24	DKE 1069 1085	oral antibiotics
+T25	DKE 1115 1138	intravenous antibiotics
+T26	DKE 1174 1210	antibiotic-refractory Lyme arthritis

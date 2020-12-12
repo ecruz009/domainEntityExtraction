@@ -1,0 +1,24 @@
+T1	DKE 0 12	Lyme disease
+T2	DKE 14 16	LD
+T3	DKE 37 57	tick-borne infection
+T4	DKE 275 284	arthritis
+T5	DKE 435 451	erythema migrans
+T6	DKE 453 455	EM
+T7	DKE 474 483	skin rash
+T8	DKE 501 510	bulls eye
+T9	DKE 648 650	LD
+T10	DKE 712 724	Lyme disease
+T11	DKE 755 789	Borrelia burgdorferi sensu stricto
+T12	DKE 808 822	B. burgdorferi
+T13	DKE 837 853	Borrelia mayonii
+T14	DKE 946 948	LD
+T15	DKE 978 988	B. mayonii
+T16	DKE 989 998	infection
+T17	DKE 1031 1041	B. afzelii
+T18	DKE 1043 1053	B. garinii
+T19	DKE 1055 1069	B. burgdorferi
+T20	DKE 1071 1084	B. spielmanii
+T21	DKE 1086 1098	B. bissettii
+T22	DKE 1103 1117	B. bavariensis
+T23	DKE 1231 1240	B garinii
+T24	DKE 1209 1220	genospecies

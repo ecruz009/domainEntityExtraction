@@ -1,0 +1,32 @@
+T1	DKE 0 12	Lyme disease
+T2	DKE 14 16	LD
+T3	DKE 58 89	spirochete Borrelia burgdorferi
+T4	DKE 99 101	LD
+T5	DKE 209 225	erythema migrans
+T6	DKE 227 229	EM
+T7	DKE 236 249	Rheumatologic
+T8	DKE 251 261	neurologic
+T9	DKE 263 275	dermatologic
+T10	DKE 280 291	cardiologic
+T11	DKE 319 321	LD
+T12	DKE 418 420	LD
+T13	DKE 440 460	neurologic syndromes
+T14	DKE 513 515	LD
+T15	DKE 530 544	acute myositis
+T16	DKE 548 570	chronic encephalopathy
+T17	DKE 581 593	facial palsy
+T18	DKE 598 616	aseptic meningitis
+T19	DKE 648 673	neurologic manifestations
+T20	DKE 792 808	neuroborreliosis
+T21	DKE 816 829	Lyme serology
+T22	DKE 864 875	systemic LD
+T23	DKE 950 966	oral spirochetes
+T24	DKE 907 934	asymptomatic seroconversion
+T25	DKE 1024 1033	pathogens
+T26	DKE 1279 1281	LD
+T27	DKE 1300 1316	neuroborreliosis
+T28	DKE 1379 1381	LD
+T29	DKE 1394 1406	seropositive
+T30	DKE 1437 1449	seropositive
+T31	DKE 1542 1558	neuroborreliosis
+T32	DKE 1623 1636	Lyme serology

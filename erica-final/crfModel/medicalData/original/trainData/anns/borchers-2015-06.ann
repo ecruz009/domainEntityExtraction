@@ -1,0 +1,53 @@
+T1	DKE 0 14	Histopathology
+T2	DKE 18 51	peripheral nerve biopsy specimens
+T3	DKE 102 114	Lyme disease
+T4	DKE 150 161	lymphocytes
+T5	DKE 163 175	plasma cells
+T6	DKE 180 191	histiocytes
+T7	DKE 212 249	patchy multifocal axonal degeneration
+T8	DKE 267 289	lymphocytic infiltrate
+T9	DKE 320 328	meninges
+T10	DKE 355 376	white and gray matter
+T11	DKE 425 444	dorsal root ganglia
+T12	DKE 449 460	nerve roots
+T13	DKE 509 521	immune cells
+T14	DKE 559 597	inflammatory and neurotoxic substances
+T15	DKE 599 611	T-cell lines
+T16	DKE 641 644	CSF
+T17	DKE 662 665	LNB
+T18	DKE 703 726	type 1 cytokine pattern
+T19	DKE 747 751	IFNg
+T20	DKE 786 790	IL-4
+T21	DKE 808 829	CSF mononuclear cells
+T22	DKE 831 834	MNC
+T23	DKE 861 864	LNB
+T24	DKE 885 903	borrelial antigens
+T25	DKE 962 981	IFNgsecreting cells
+T26	DKE 1052 1068	peripheral blood
+T27	DKE 1184 1199	responder cells
+T28	DKE 1283 1287	IFNg
+T29	DKE 1314 1323	cytokines
+T30	DKE 1328 1338	chemokines
+T31	DKE 1366 1369	CSF
+T32	DKE 1387 1390	LNB
+T33	DKE 1431 1435	IFNg
+T34	DKE 1439 1442	CSF
+T35	DKE 1487 1499	CD8þ T cells
+T36	DKE 1517 1537	nerve biopsy samples
+T37	DKE 1557 1586	ACA-associated polyneuropathy
+T38	DKE 1618 1629	CD8 T cells
+T39	DKE 1659 1662	CSF
+T40	DKE 1680 1689	acute LNB
+T41	DKE 1726 1730	TNFa
+T42	DKE 1740 1744	IFNg
+T43	DKE 1777 1794	Borrelia antigens
+T44	DKE 1820 1850	Borrelia-specific CD8þ T cells
+T45	DKE 1854 1857	LNB
+T46	DKE 1941 1959	Borrelia infection
+T47	DKE 2018 2033	peripheral CD8þ
+T48	DKE 2038 2048	gd T cells
+T49	DKE 2095 2117	Borrelia-specific IFNg
+T50	DKE 2146 2170	chronic Lyme borreliosis
+T51	DKE 2213 2216	CSF
+T52	DKE 2245 2260	immune response
+T53	DKE 2334 2340	T cell

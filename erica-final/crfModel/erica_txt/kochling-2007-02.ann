@@ -1,0 +1,23 @@
+T1	DKE 0 16	Neuroborreliosis
+T2	DKE 49 66	clinical symptoms
+T3	DKE 68 71	CSF
+T4	DKE 76 90	serum analysis
+T5	DKE 95 100	serum
+T6	DKE 105 108	CSF
+T7	DKE 110 113	IgM
+T8	DKE 131 134	IgG
+T9	DKE 135 148	intermediates
+T10	DKE 153 167	B. burgdorferi
+T11	DKE 178 183	ELISA
+T12	DKE 188 198	immunoblot
+T13	DKE 204 230	antibody specificity index
+T14	DKE 262 276	B. burgdorferi
+T15	DKE 291 299	Borrelia
+T16	DKE 300 303	IgM
+T17	DKE 304 307	CSF
+T18	DKE 308 313	serum
+T19	DKE 344 365	intrathecal synthesis
+T20	DKE 378 388	antibodies
+T21	DKE 400 421	oligoclonal-IgG bands
+T22	DKE 425 461	isoelectric focusing electrophoresis
+T23	DKE 496 512	neuroborreliosis

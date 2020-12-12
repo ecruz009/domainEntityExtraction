@@ -1,0 +1,27 @@
+﻿We	O	0,2
+first	O	3,8
+compared	O	9,17
+children	O	18,26
+with	O	27,31
+Lyme	B-KP	32,36
+disease	I-KP	37,44
+to	O	45,47
+those	O	48,53
+without	O	54,61
+using	O	62,67
+the	O	68,71
+Mann–Whitney	O	72,84
+U	O	85,86
+test	O	87,91
+to	O	92,94
+compare	O	95,102
+continuous	O	103,113
+variables	O	114,123
+and	O	124,127
+the	O	128,131
+χ2	O	132,134
+test	O	135,139
+for	O	140,143
+proportions	O	144,155
+.	O	155,156
+

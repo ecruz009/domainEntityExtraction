@@ -1,0 +1,28 @@
+T1	DKE 38 54	LNB inflammation
+T2	DKE 62 76	nervous system
+T3	DKE 80 95	rhesus macaques
+T4	DKE 123 142	dorsal root ganglia
+T5	DKE 144 155	nerve roots
+T6	DKE 161 174	leptomeninges
+T7	DKE 176 188	Tlymphocytes
+T8	DKE 193 205	plasma cells
+T9	DKE 227 252	inflammatory cell markers
+T10	DKE 289 303	immunoglobulin
+T11	DKE 305 308	IgG
+T12	DKE 310 313	IgM
+T13	DKE 319 329	complement
+T14	DKE 331 334	C1q
+T15	DKE 349 370	inflamed spinal cords
+T16	DKE 372 383	Spirochetes
+T17	DKE 405 425	immunohistochemistry
+T18	DKE 433 446	leptomeninges
+T19	DKE 448 459	nerve roots
+T20	DKE 465 484	dorsal root ganglia
+T21	DKE 501 523	central nervous system
+T22	DKE 525 528	CNS
+T23	DKE 530 540	parenchyma
+T24	DKE 604 607	LNB
+T25	DKE 636 646	meningitis
+T26	DKE 651 662	radiculitis
+T27	DKE 688 717	intra-axial parenchymal brain
+T28	DKE 722 733	spinal cord

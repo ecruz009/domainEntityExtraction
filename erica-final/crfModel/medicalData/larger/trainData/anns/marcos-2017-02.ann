@@ -1,0 +1,25 @@
+T1	DKE 23 38	facial symmetry
+T2	DKE 122 143	Lyme cranial neuritis
+T3	DKE 145 156	Doxycycline
+T4	DKE 175 185	pregabalin
+T5	DKE 213 224	doxycycline
+T6	DKE 374 376	EM
+T7	DKE 414 418	rash
+T8	DKE 448 463	lumbar puncture
+T9	DKE 474 477	MRI
+T10	DKE 496 509	Cerebrospinal
+T11	DKE 510 522	spinal fluid
+T12	DKE 548 552	WBCs
+T14	DKE 609 612	CSF
+T13	DKE 590 603	Lyme serology
+T15	DKE 652 665	Lyme serology
+T16	DKE 646 651	serum
+T19	DKE 706 718	Western blot
+T20	DKE 760 769	serum IgG
+T17	DKE 696 705	serum IgM
+T18	DKE 770 782	Western blot
+T21	DKE 824 827	CRP
+T22	DKE 858 861	MRI
+T23	DKE 928 940	facial nerve
+T24	DKE 975 986	minocycline
+T25	DKE 1095 1111	facial paralysis

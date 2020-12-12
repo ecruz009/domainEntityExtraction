@@ -1,0 +1,1 @@
+Clinicians use clinical prediction rules to combine available demographic, clinical, and laboratory factors to estimate the probability of an outcome and assist clinical decision-making.‍ [3] Clinicians also use prediction rules to estimate the probability of Lyme disease for children presenting with facial palsy, [4, 5] meningitis, [6, 7, 8] and arthritis.‍ [9]

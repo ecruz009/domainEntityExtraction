@@ -1,0 +1,15 @@
+T1	DKE 0 12	Lyme disease
+T2	DKE 250 255	ELISA
+T3	DKE 257 290	enzyme-linked immunosorbent assay
+T4	DKE 317 322	ELISA
+T5	DKE 364 376	Western blot
+T6	DKE 437 449	Lyme disease
+T7	DKE 506 516	Bell palsy
+T8	DKE 575 587	Lyme disease
+T9	DKE 593 615	central nervous system
+T10	DKE 636 647	ceftriaxone
+T11	DKE 652 662	oxycycline
+T12	DKE 698 710	Western blot
+T13	DKE 739 750	doxycycline
+T14	DKE 831 843	Lyme disease
+T15	DKE 844 858	facial palsies

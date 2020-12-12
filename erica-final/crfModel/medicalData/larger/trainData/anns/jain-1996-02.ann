@@ -1,0 +1,29 @@
+T1	DKE 27 40	serodiagnosis
+T2	DKE 44 60	Lyme borreliosis
+T3	DKE 92 106	false-positive
+T4	DKE 107 125	enzyme immunoassay
+T5	DKE 127 130	EIA
+T6	DKE 136 160	immunofluorescence assay
+T7	DKE 188 201	overdiagnosis
+T8	DKE 265 279	immunoblotting
+T9	DKE 298 308	neurologic
+T10	DKE 324 340	Lyme borreliosis
+T11	DKE 409 423	B. burgdorferi
+T12	DKE 439 451	facial palsy
+T13	DKE 497 508	concomitant
+T14	DKE 527 543	erythema migrans
+T15	DKE 545 547	EM
+T16	DKE 561 577	immunoglobulin G
+T17	DKE 579 582	IgG
+T18	DKE 584 594	immunoblot
+T19	DKE 620 636	Lyme borreliosis
+T20	DKE 666 678	facial palsy
+T21	DKE 716 732	Lyme borreliosis
+T22	DKE 747 750	IgM
+T23	DKE 751 761	immunoblot
+T24	DKE 827 840	serodiagnosis
+T25	DKE 844 860	Lyme borreliosis
+T26	DKE 902 905	IgM
+T27	DKE 906 916	immunoblot
+T28	DKE 937 951	B. burgdorferi
+T29	DKE 979 997	acute facial palsy

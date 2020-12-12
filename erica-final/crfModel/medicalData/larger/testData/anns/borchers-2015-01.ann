@@ -1,0 +1,37 @@
+T1	DKE 0 11	Spirochetes
+T2	DKE 37 52	protein profile
+T3	DKE 97 117	Ixodes ricinus ticks
+T4	DKE 57 79	antigenic determinants
+T5	DKE 139 161	Ixodes pacificus ticks
+T6	DKE 201 225	Ixodes persulcatus ticks
+T7	DKE 283 295	Lyme disease
+T8	DKE 329 346	Bb sensu stricto,
+T9	DKE 412 428	Borrelia afzelii
+T10	DKE 433 449	Borrelia garinii
+T11	DKE 473 506	B. burgdorferi sensu lato complex
+T12	DKE 545 557	Borrelia spp
+T13	DKE 655 674	Borrelia spielmanii
+T14	DKE 676 696	Borrelia bavariensis
+T15	DKE 698 716	Borrelia bissettii
+T16	DKE 718 737	Borrelia lusitaniae
+T17	DKE 739 757	Borrelia americana
+T18	DKE 759 778	Borrelia andersonii
+T19	DKE 783 802	Borrelia valaisiana
+T20	DKE 923 925	Bb
+T21	DKE 954 966	Lyme disease
+T22	DKE 1010 1022	B. americana
+T23	DKE 1027 1040	B. andersonii
+T24	DKE 1062 1067	blood
+T25	DKE 1071 1075	skin
+T26	DKE 1122 1124	EM
+T27	DKE 1156 1168	Lyme disease
+T28	DKE 1191 1203	B. bissettii
+T29	DKE 1238 1259	cerebral spinal fluid
+T30	DKE 1261 1264	CSF
+T31	DKE 1293 1305	Lyme disease
+T32	DKE 1338 1341	PCR
+T33	DKE 1535 1538	PCR
+T34	DKE 1595 1603	Borrelia
+T35	DKE 1742 1745	PCR
+T36	DKE 1749 1763	tissue samples
+T37	DKE 1798 1818	culture-based typing

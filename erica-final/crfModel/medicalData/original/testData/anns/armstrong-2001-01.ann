@@ -1,0 +1,46 @@
+T1	DKE 69 81	Lyme disease
+T2	DKE 83 97	B. burgdorferi
+T3	DKE 100 128	human monocytic ehrlichiosis
+T4	DKE 130 151	Ehrlichia chaffeensis
+T5	DKE 154 185	human granulocytic ehrlichiosis
+T6	DKE 187 211	Ehrlichia phagocytophila
+T7	DKE 244 265	Rickettsia rickettsii
+T8	DKE 268 281	murine typhus
+T9	DKE 283 299	Rickettsia typhi
+T10	DKE 302 309	Q fever
+T11	DKE 311 327	Coxiella burneti
+T12	DKE 330 340	tularaemia
+T13	DKE 342 364	Francisella tularensis
+T14	DKE 370 380	babesiosis
+T15	DKE 382 397	Babesia microti
+T16	DKE 400 414	IgG antibodies
+T19	DKE 451 468	E. phagocytophila
+T20	DKE 470 483	R. rickettsii
+T21	DKE 485 493	R. typhi
+T22	DKE 495 505	C. burneti
+T23	DKE 511 521	B. microti
+T24	DKE 537 573	indirect fluorescent antibody assays
+T25	DKE 575 578	IFA
+T26	DKE 654 667	F. tularensis
+T27	DKE 674 693	agglutination assay
+T17	DKE 783 797	IgG antibodies
+T18	DKE 810 822	Lyme disease
+T28	DKE 823 834	spirochaete
+T29	DKE 862 895	enzyme-linked immunosorbent assay
+T30	DKE 897 902	ELISA
+T31	DKE 910 918	antigens
+T32	DKE 940 954	B. burgdorferi
+T33	DKE 1066 1095	Hanks' balanced salt solution
+T34	DKE 1097 1101	HBSS
+T35	DKE 1163 1167	HBSS
+T36	DKE 1180 1192	spirochaetes
+T37	DKE 1221 1241	darkfield microscopy
+T38	DKE 1350 1362	spirochaetes
+T39	DKE 1502 1509	antigen
+T40	DKE 1740 1748	antibody
+T41	DKE 1781 1831	alkaline phosphatase-conjugated goat antihuman IgG
+T42	DKE 1928 1986	p-nitrophenyl phosphate substrate in diethanolamine buffer
+T43	DKE 2015 2033	secondary antibody
+T44	DKE 2203 2215	Lyme disease
+T45	DKE 214 242	Rocky Mountain spotted fever
+T46	DKE 423 449	antigens of E. chaffeensis

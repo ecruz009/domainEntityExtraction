@@ -1,0 +1,18 @@
+T1	DKE 129 151	nonpolio enteroviruses
+T2	DKE 168 178	meningitis
+T3	DKE 220 249	pathogen concentration in CSF
+T4	DKE 289 318	standard microbiologic stains
+T5	DKE 324 350	Mycobacterium tuberculosis
+T6	DKE 352 374	Listeria monocytogenes
+T7	DKE 376 399	Cryptococcus neoformans
+T8	DKE 410 420	meningitis
+T9	DKE 465 468	CSF
+T10	DKE 499 528	human immuno-deficiency virus
+T11	DKE 530 533	HIV
+T12	DKE 536 548	Lyme disease
+T13	DKE 550 558	syphilis
+T14	DKE 635 664	parameningeal focal processes
+T15	DKE 670 681	brain tumor
+T16	DKE 683 710	brain or paraspinal abscess
+T17	DKE 712 731	transverse myelitis
+T18	DKE 733 760	herpes simplex encephalitis

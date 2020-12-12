@@ -1,0 +1,32 @@
+T1	DKE 9 24	lumbar puncture
+T2	DKE 106 109	WBC
+T3	DKE 178 191	gammaglobulin
+T4	DKE 243 254	Lyme ELISA,
+T5	DKE 261 267	IgG WB
+T6	DKE 281 287	IgM WB
+T7	DKE 293 318	intrathecal Ab production
+T11	DKE 528 539	spirochetes
+T13	DKE 695 712	PCR amplification
+T14	DKE 720 729	spoT gene
+T15	DKE 750 762	PCR amplicon
+T16	DKE 766 793	agarose gel electrophoresis
+T17	DKE 842 877	PCR amplicon from wild-type strains
+T18	DKE 921 934	B burgdorferi
+T19	DKE 953 964	CSF culture
+T20	DKE 1004 1009	BSKII
+T21	DKE 1021 1030	kanamycin
+T22	DKE 1045 1057	streptomycin
+T23	DKE 1110 1130	B burgdorferi strain
+T24	DKE 1144 1155	CSF culture
+T25	DKE 1193 1211	spoT mutant strain
+T26	DKE 1213 1217	WC07
+T27	DKE 1222 1235	B burgdorferi
+T28	DKE 1273 1282	spoT gene
+T29	DKE 1307 1335	streptomycin resistance gene
+T30	DKE 1337 1356	spoT mutant strains
+T12	DKE 646 649	DNA
+T10	DKE 456 459	CSF
+T31	DKE 460 463	PCR
+T8	DKE 379 406	positive intrathecal sample
+T9	DKE 567 588	dark-field microscopy
+T32	DKE 548 562	phase contrast

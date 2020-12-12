@@ -1,0 +1,47 @@
+﻿Lyme	B-KP	0,4
+disease	I-KP	5,12
+is	O	13,15
+recognized	O	16,26
+as	O	27,29
+a	O	30,31
+multisystem	O	32,43
+vector-borne	B-KP	44,56
+disease	O	57,64
+.	O	64,65
+
+Changing	O	66,74
+and	O	75,78
+intermittent	O	79,91
+signs	O	92,97
+and	O	98,101
+symptoms	O	102,110
+may	O	111,114
+make	O	115,119
+diagnosis	O	120,129
+difficult	O	130,139
+.	O	139,140
+
+Lyme	B-KP	141,145
+disease	I-KP	146,153
+is	O	154,156
+often	O	157,162
+referred	O	163,171
+to	O	172,174
+as	O	175,177
+the	O	178,181
+“	O	182,183
+great	B-KP	183,188
+imitator	I-KP	189,197
+”	O	197,198
+because	O	199,206
+it	O	207,209
+mimics	O	210,216
+diseases	O	217,225
+such	O	226,230
+as	O	231,233
+arthritis	B-KP	234,243
+and	O	244,247
+multiple	B-KP	248,256
+sclerosis	I-KP	257,266
+.	O	266,267
+

@@ -1,0 +1,33 @@
+T1	DKE 26 38	Lyme disease
+T2	DKE 63 77	primary lesion
+T3	DKE 126 146	Borrelia inoculation
+T4	DKE 177 193	erythema migrans
+T5	DKE 218 237	erythematous papule
+T6	DKE 287 293	plaque
+T7	DKE 362 364	EM
+T8	DKE 424 429	fever
+T9	DKE 431 438	malaise
+T10	DKE 444 452	headache
+T11	DKE 458 469	skin lesion
+T12	DKE 497 505	pruritus
+T13	DKE 511 535	regional lymphadenopathy
+T14	DKE 602 604	EM
+T15	DKE 639 651	Lyme disease
+T16	DKE 693 704	spirochetes
+T17	DKE 1029 1046	secondary lesions
+T18	DKE 1051 1069	Borrelia infection
+T19	DKE 1120 1130	EM lesions
+T20	DKE 1143 1163	erythematous plaques
+T21	DKE 1224 1230	lesion
+T22	DKE 1289 1310	Lyme neuroborreliosis
+T23	DKE 1312 1315	LNB
+T24	DKE 1322 1330	carditis
+T25	DKE 1369 1380	skin lesion
+T26	DKE 1388 1410	borrelial lymphocytoma
+T27	DKE 1444 1464	tertiary skin lesion
+T28	DKE 1536 1547	Borreliawas
+T29	DKE 1558 1592	acrodermatitis chronic atrophicans
+T30	DKE 1610 1623	atrophic skin
+T31	DKE 1656 1691	Acordermatitis chronica atrophicans
+T32	DKE 1693 1696	ACA
+T33	DKE 1860 1862	LA
